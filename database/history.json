@@ -10,5 +10,17 @@
         "status": "failed",
         "timestamp": "Sabtu, 11 Juli 2026 pukul 08:15:35",
         "createdAt": "2026-07-11T01:15:35.915Z"
+    },
+    {
+        "id": 2,
+        "user_id": "web_user",
+        "username": "Web User",
+        "command": "/fix 22667063683",
+        "number_fixed": "22667063683",
+        "email_used": "rururudadangcemass@gmail.com",
+        "details": "❌ Gagal: Email is not defined",
+        "status": "failed",
+        "timestamp": "Sabtu, 11 Juli 2026 pukul 08:15:42",
+        "createdAt": "2026-07-11T01:15:42.486Z"
     }
 ]
