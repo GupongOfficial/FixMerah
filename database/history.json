@@ -22,5 +22,17 @@
         "status": "failed",
         "timestamp": "Sabtu, 11 Juli 2026 pukul 08:15:42",
         "createdAt": "2026-07-11T01:15:42.486Z"
+    },
+    {
+        "id": 3,
+        "user_id": "web_user",
+        "username": "Web User",
+        "command": "/fix 22667063683",
+        "number_fixed": "22667063683",
+        "email_used": "bobobypanglima@gmail.com",
+        "details": "❌ Gagal: Email is not defined",
+        "status": "failed",
+        "timestamp": "Sabtu, 11 Juli 2026 pukul 08:18:56",
+        "createdAt": "2026-07-11T01:18:56.801Z"
     }
 ]
